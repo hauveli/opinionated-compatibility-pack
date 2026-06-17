@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "fishcasting:unlucky_mulch"
+  },
+  "result": {
+    "id": "hexcasting:amethyst_dust"
+  },
+  "experience": 1,
+  "cookingtime": 200
+}
