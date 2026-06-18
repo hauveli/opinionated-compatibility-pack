@@ -1,0 +1,38 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create",
+        "hexcasting"
+      ]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "hexcasting:ancient_cypher"
+    }
+  ],
+  "processing_time": 350,
+  "results": [
+    {
+      "chance": 0.33,
+      "id": "hexcasting:amethyst_dust"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:copper_ingot"
+    }
+  ]
+}

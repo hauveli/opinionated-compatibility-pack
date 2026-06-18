@@ -1,8 +1,16 @@
 {
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "fishcasting"
+      ]
+    }
+  ],
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "create"
+      "modid": "fishcasting"
     }
   ],
   "type": "minecraft:smelting",
