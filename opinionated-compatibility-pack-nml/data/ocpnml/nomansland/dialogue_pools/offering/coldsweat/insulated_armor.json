@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cold_sweat"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items":  ["cold_sweat:goat_fur", "cold_sweat:hoglin_hide", "cold_sweat:chameleon_molt",
+      "cold_sweat:hoglin_helmet", "cold_sweat:hoglin_chestplate", "cold_sweat:hoglin_leggings", "cold_sweat:hoglin_boots",
+      "cold_sweat:goat_fur_helmet", "cold_sweat:goat_fur_chestplate", "cold_sweat:goat_fur_leggings", "cold_sweat:goat_fur_boots",
+      "cold_sweat:chameleon_helmet", "cold_sweat:chameleon_chestplate", "cold_sweat:chameleon_leggings", "cold_sweat:chameleon_boots"]
+  },
+  "weight": 1,
+  "text": "Be thankful for the sacrifices made to keep You alive and well./\nNot every one of us has the same freedoms to choose how to live./"
+}

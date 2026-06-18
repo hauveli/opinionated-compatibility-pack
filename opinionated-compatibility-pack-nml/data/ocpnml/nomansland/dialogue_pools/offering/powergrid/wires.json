@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "powergrid"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#c:wires"
+  },
+  "weight": 1,
+  "text": "P/O/W/E/R/!\nContained by simple wires.../ Incredible./"
+}

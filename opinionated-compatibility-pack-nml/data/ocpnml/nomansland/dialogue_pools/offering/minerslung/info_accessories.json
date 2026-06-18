@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thick_air"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["thick_air:safety_lantern", "thick_air:signal_torch"]
+  },
+  "weight": 1,
+  "text": "To truly see, it is not light you must take in with your eyes./"
+}

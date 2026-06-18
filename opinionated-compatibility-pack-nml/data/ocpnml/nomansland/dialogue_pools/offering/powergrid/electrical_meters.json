@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "powergrid"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["powergrid:voltage_gauge", "powergrid:current_gauge", "powergrid:power_gauge", "powergrid:plotter", "powergrid:thermometer"]
+  },
+  "weight": 1,
+  "text": "Measure once,/ cut twice?"
+}

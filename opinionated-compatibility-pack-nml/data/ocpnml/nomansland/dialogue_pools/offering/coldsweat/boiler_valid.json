@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cold_sweat"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items":  "#cold_sweat:boiler_valid"
+  },
+  "weight": 1,
+  "text": "Water, the source of all life./\nHave You ever known somebody to treat it with care?/"
+}

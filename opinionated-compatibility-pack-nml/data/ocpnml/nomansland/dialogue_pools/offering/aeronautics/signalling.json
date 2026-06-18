@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aeronautics_bundled"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["simulated:directional_linked_receiver", "simulated:modulating_linked_receiver", "simulated:redstone_accumulator", "simulated:redstone_inductor"]
+  },
+  "weight": 1,
+  "text": "Signals travelling for ages/ bound for whom?"
+}

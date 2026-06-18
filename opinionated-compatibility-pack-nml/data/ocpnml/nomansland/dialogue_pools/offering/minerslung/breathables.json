@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thick_air"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["thick_air:respirator", "thick_air:air_bladder", "thick_air:reinforced_air_bladder", "thick_air:soulfire_bottle"]
+  },
+  "weight": 1,
+  "text": "In,/ out,/ in,/ out./\nWith each unwaking breath, we perform an exchange with nature/./\nTo obtain, something of equal value must be lost."
+}

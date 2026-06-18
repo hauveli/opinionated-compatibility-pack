@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "powergrid"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#powergrid:circuit_component"
+  },
+  "weight": 1,
+  "text": "What is its purpose?/\nIt almost seems like a miniature building.../"
+}
