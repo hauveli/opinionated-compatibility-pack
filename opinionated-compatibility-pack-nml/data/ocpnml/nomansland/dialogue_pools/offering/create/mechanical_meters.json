@@ -7,7 +7,7 @@
   ],
   "condition": {
     "type": "nomansland:item_conditional",
-    "items": ["create:chute", "create:smart_chute", "create:smart_observer", "create:stockpile_switch",
+    "items": ["create:chute", "create:smart_chute", "create:content_observer", "create:stockpile_switch",
       "create:stock_link", "create:stock_ticker", "create:redstone_requester", "create:factory_gauge"]
   },
   "weight": 1,

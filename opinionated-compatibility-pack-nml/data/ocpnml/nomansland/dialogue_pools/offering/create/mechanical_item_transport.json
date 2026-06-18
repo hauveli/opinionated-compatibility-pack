@@ -7,7 +7,7 @@
   ],
   "condition": {
     "type": "nomansland:item_conditional",
-    "items": ["create:belt_conveyor", "create:turntable", "create:basin", "create:depot", "create:chute", "create:smart_chute",
+    "items": ["create:belt_connector", "create:turntable", "create:basin", "create:depot", "create:chute", "create:smart_chute",
       "create:packager", "create:repackager", "create:package_frogport", "create:redstone_requester",
       "create:andesite_funnel", "create:brass_funnel", "create:andesite_tunnel", "create:brass_tunnel", "create:item_vault"]
   },

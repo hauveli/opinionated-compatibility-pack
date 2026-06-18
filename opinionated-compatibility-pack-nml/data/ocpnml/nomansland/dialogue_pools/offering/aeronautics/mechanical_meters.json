@@ -7,7 +7,7 @@
   ],
   "condition": {
     "type": "nomansland:item_conditional",
-    "items": ["simulated:laser_sensor", "simulated:velocity_sensor", "simulated:altitude_sensor", "simulated_gimbal_sensor",
+    "items": ["simulated:laser_sensor", "simulated:velocity_sensor", "simulated:altitude_sensor", "simulated:gimbal_sensor",
       "simulated:navigation_table", "simulated:optical_sensor", "simulated:contraption_diagram"]
   },
   "weight": 1,
