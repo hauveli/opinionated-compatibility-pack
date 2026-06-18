@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#create:tracks"
+  },
+  "weight": 1,
+  "text": "Journeying to places far away,/ we seek experiences which can not be found where we are now./\nStill,/ we return./"
+}

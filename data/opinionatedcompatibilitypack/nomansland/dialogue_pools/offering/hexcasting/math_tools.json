@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["hexcasting:abacus"]
+  },
+  "weight": 1,
+  "text": "One,/ two,/ three/, four/.../ Or should we start from the beginning?/"
+}

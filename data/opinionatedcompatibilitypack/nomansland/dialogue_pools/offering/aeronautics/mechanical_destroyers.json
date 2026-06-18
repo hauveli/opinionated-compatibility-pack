@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aeronautics_bundled"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["offroad:rockcutting_wheel", "offroad:borehead_bearing"]
+  },
+  "weight": 1,
+  "text": "Nothing is ever truly lost,/ only changed or forgotten/ until its form is remembered once more/."
+}

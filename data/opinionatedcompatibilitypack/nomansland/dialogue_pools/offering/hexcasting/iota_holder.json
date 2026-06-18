@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["hexcasting:thought_knot", "hexcasting:focus", "hexcasting:spellbook","hexcasting:scroll","hexcasting:scroll_medium","hexcasting:scroll_small"]
+  },
+  "weight": 1,
+  "text": "Memories and thoughts/ readily recalled/./././\nIf only time would slow down, we might glean the past we've lost."
+}

@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["hexcasting:akashic_ligature", "hexcasting:akashic_bookshelf", "hexcasting:akashic_record"]
+  },
+  "weight": 1,
+  "text": "A long time ago, a library had been made./\nKnowledge from every corner gathered in one place,/\nburned in one bright night./ All we remember is the library itself./"
+}

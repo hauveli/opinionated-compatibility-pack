@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#hexcasting:amethyst_blocks"
+  },
+  "weight": 1,
+  "text": "A mineral of incomprehensibly fine composition.\nA masterpiece we are not equipped to fully appreciate."
+}

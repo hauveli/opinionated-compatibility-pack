@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tide"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#tide:bobbers"
+  },
+  "weight": 1,
+  "text": "Vanity begets envy./ But which is truly vain,/ is it the envious?/"
+}

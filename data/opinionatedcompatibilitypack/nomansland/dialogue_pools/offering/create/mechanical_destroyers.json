@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["create:encased_fan", "create:nozzle", "create:mechanical_press", "create:mechanical_mixer",
+      "create:millstone", "create:crushing_wheel", "create:mechanical_drill", "create:mechanical_saw",
+      "create:mechanical_harvester", "create:mechanical_plough", "create:mechanical_roller"]
+  },
+  "weight": 1,
+  "text": "Nothing is ever truly lost,/ only changed or forgotten/ until its form is remembered once more/."
+}

@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "example_mod_id"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["example_mod_id:example_item_path", "example_mod_id:other_example_item_path"]
+  },
+  "weight": 1,
+  "text": "example text goes here"
+}
