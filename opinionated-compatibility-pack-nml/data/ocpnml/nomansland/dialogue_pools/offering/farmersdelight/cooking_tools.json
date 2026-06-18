@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["farmersdelight:stove", "farmersdelight:cooking_pot", "farmersdelight:skillet", "farmersdelight:cutting_board"]
+  },
+  "weight": 1,
+  "text": "Culinary arts change with time./\nYour reasons for pushing it to new heights it rarely do./"
+}

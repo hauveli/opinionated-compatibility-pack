@@ -2,13 +2,13 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "hexcasting"
+      "modid": "estrogen"
     }
   ],
   "condition": {
     "type": "nomansland:item_conditional",
-    "items": "#hexcasting:edified_logs"
+    "items": ["estrogen:horse_urine_bottle"]
   },
   "weight": 1,
-  "text": "Forcibly made to grow./\nLife nonetheless./"
+  "text": "./././"
 }
