@@ -7,7 +7,7 @@
   ],
   "condition": {
     "type": "nomansland:item_conditional",
-    "items":  ["cold_sweat:hearth_bottom", "cold_sweat:boiler", "cold_sweat:icebox", "cold_sweat:smokestack", "cold_sweat:thermolith"]
+    "items":  ["cold_sweat:hearth", "cold_sweat:boiler", "cold_sweat:icebox", "cold_sweat:smokestack", "cold_sweat:thermolith"]
   },
   "weight": 1,
   "text": "The familiar embrace of warmth/ or cold./\nDoes it remind You of a place You have been?/"
