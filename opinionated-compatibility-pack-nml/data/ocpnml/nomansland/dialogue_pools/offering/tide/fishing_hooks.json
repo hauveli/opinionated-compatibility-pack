@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tide"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#tide:hooks"
+  },
+  "weight": 1,
+  "text": "To live is to consume life./ Do not take it in pursuit of vanity./\nWhen it is your turn,/ how do will the world treat you in that moment?/"
+}

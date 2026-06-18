@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "yttr"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["yttr:diffractor", "yttr:platforms", "yttr:projector", "yttr:shifter", "yttr:drop_of_continuity", "yttr:root_of_continuity"]
+  },
+  "weight": 1,
+  "text": "Vibrant and ephemeral./\nThese are too much for me to take from you./ Keep them/ and enjoy the luxury they afford you."
+}

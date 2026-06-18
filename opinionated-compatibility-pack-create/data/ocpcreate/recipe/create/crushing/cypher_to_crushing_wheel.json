@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "hexcasting:cypher"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.33,
+      "item": "hexcasting:amethyst_dust"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["hexcasting:battery"]
+  },
+  "weight": 1,
+  "text": "A source of power for some,/ blessed with the freedom to use it./"
+}

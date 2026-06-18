@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tide"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["tide:obsidian_fragment"]
+  },
+  "weight": 1,
+  "text": "A small part of a greater whole."
+}

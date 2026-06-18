@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aeronautics_bundled"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["aeronautics:white_envelope", "aeronautics:adjustable_burner", "aeronautics:steam_vent", "aeronautics:propeller_bearing",
+      "aeronautics:gyroscopic_propeller_bearing", "aeronautics:smart_propeller", "aeronautics:andesite_propeller", "aeronautics:wooden_propeller"]
+  },
+  "weight": 1,
+  "text": "Freedom from conformity,/ bought by borrowing rules from another place./\nNatural laws bend/ only to those who lack the truth./"
+}

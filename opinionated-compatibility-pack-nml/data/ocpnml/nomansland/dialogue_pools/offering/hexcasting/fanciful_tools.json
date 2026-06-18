@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["hexcasting:staff/mindsplice", "hexcasting:staff/quenched"]
+  },
+  "weight": 1,
+  "text": "I dare not ask why you have this in your possession./././\nOne as yourself should not stoop to using such things/."
+}

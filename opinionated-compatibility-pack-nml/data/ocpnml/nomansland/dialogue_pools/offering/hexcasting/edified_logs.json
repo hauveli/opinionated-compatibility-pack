@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#hexcasting:edified_logs"
+  },
+  "weight": 1,
+  "text": "Forcibly made to grow./\nLife nonetheless./"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hexcasting:scroll_medium"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:paper"
+  }
+}

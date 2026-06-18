@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aeronautics_bundled"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": ["offroad:small_tire", "offroad:tire", "offroad:large_tire", "offroad:monstrous_tire", "offroad:wheel_mount"]
+  },
+  "weight": 1,
+  "text": "Freedom from conformity,/ bought by borrowing rules from another place./\nNatural laws bend/ only to those who lack the truth./"
+}

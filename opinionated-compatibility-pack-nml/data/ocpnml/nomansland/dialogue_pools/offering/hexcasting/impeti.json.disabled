@@ -1,0 +1,8 @@
+{
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#hexcasting:impeti"
+  },
+  "weight": 1,
+  "text": "These were not wrought cheaply/.\n Handle them gently/."
+}
