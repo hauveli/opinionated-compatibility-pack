@@ -24,10 +24,10 @@
       "tag": "fishcasting:unlucky_mulch"
     }
   ],
-  "processingTime": 350,
+  "processing_time": 350,
   "results": [
     {
-      "count": 2,
+      "amount": 2,
       "item": "minecraft:paper"
     },
     {
