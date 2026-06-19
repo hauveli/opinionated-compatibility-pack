@@ -27,12 +27,9 @@
   "processing_time": 350,
   "results": [
     {
-      "amount": 2,
-      "item": "minecraft:paper"
-    },
-    {
+      "amount": 1,
       "chance": 0.5,
-      "item": "hexcasting:amethyst_dust"
+      "id": "hexcasting:amethyst_dust"
     }
   ]
 }
