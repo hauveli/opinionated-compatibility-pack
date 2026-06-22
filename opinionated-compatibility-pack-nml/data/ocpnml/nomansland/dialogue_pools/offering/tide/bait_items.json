@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tide"
+    }
+  ],
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "#tide:bait_items"
+  },
+  "weight": 1,
+  "text": "A hunter seen is a hunter hungry./\nEasily lured in by the promise of a full stomach,/ they become prey."
+}
